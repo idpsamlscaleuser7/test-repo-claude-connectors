@@ -60,3 +60,66 @@ Moving from Pro to Max takes effect immediately, and your billing cycle restarts
 - [What is the Max plan?](https://support.claude.com/en/articles/11049741)
 - [How do I sign up for the Max plan?](https://support.claude.com/en/articles/11049752)
 - [How do I sign up for the Pro plan?](https://support.claude.com/en/articles/8325609-how-do-i-sign-up-for-the-pro-plan)
+
+---
+
+## ChatGPT plans: free vs paid (2026)
+
+ChatGPT is developed by OpenAI and is available on a free plan and several paid plans.
+
+### Free plan
+
+The free plan is available indefinitely with no time limit and includes:
+
+- Access to **GPT-5.3 Instant** as the primary model, with limited/throttled access to GPT-5.5
+- Basic web search (limited)
+- Image generation (slower and more limited than paid plans)
+- File uploads
+- Access to GPTs created by others (creating custom GPTs requires a paid plan)
+- ~10 messages every 5 hours on the best model before being switched to a lighter model
+
+Note: As of 2026, the free tier includes ads.
+
+### Paid plans
+
+| Plan | Price (US, monthly) | Who it's for | Highlights |
+|------|---------------------|--------------|------------|
+| Go | $8 | Light paid users | Expanded access at the lowest paid price, includes ads |
+| Plus | $20 | Individual power users | Full GPT-5.5 access, higher usage limits, priority access, custom GPT creation |
+| Pro | $100–$200 | Heaviest individual use | Highest usage limits, priority access to newest models, advanced features |
+| Business | $25–$30/user | Teams | Collaboration features, enhanced security and privacy |
+| Enterprise | Custom | Large organizations | Enterprise-grade security, compliance, custom deployment |
+
+### Key differences: Free vs Plus
+
+| Feature | Free | Plus ($20/mo) |
+|---------|------|---------------|
+| Primary model | GPT-5.3 Instant | GPT-5.5 (full access) |
+| Usage limits | ~10 msgs / 5 hrs on best model | Higher limits, consistent access |
+| Image generation | Limited, slower | Faster, more generations |
+| Custom GPT creation | ❌ | ✅ |
+| Web search | Limited | Full |
+| Priority access | ❌ | ✅ |
+| Ads | Yes (as of 2026) | No |
+| API access | ❌ | ❌ (separate API pricing) |
+
+### When to upgrade
+
+Consider upgrading from Free to Plus if you:
+- Frequently hit the message limits or encounter slower responses
+- Need to create custom GPTs
+- Rely on ChatGPT for work and need consistent, priority access
+- Need faster image generation
+
+The free plan is sufficient for casual use, basic drafting, and occasional questions.
+
+### Notes
+
+- ChatGPT API access is priced separately on a pay-per-token basis and is not included in any subscription plan.
+- Prices may vary by region and mobile app store prices may differ.
+- Subscriptions renew automatically.
+
+### Sources
+
+- [OpenAI ChatGPT Pricing](https://openai.com/chatgpt/pricing/)
+- [ChatGPT Free vs Paid Plans (2026)](https://www.techrepublic.com/article/news-what-is-free-chatgpt-2026/)
