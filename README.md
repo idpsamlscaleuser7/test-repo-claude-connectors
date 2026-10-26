@@ -123,3 +123,68 @@ The free plan is sufficient for casual use, basic drafting, and occasional quest
 
 - [OpenAI ChatGPT Pricing](https://openai.com/chatgpt/pricing/)
 - [ChatGPT Free vs Paid Plans (2026)](https://www.techrepublic.com/article/news-what-is-free-chatgpt-2026/)
+
+---
+
+## Gemini plans: free vs paid (2026)
+
+Google Gemini is available as a consumer AI assistant with a free tier and several paid plans under the **Google AI** subscription family.
+
+### Free plan
+
+The free plan includes:
+
+- Access to **Gemini** (base model) for chat
+- **Deep Research** (limited)
+- **Gemini Live** (voice conversations)
+- **Canvas** (collaborative writing/coding workspace)
+- 15 GB Google storage included
+
+No payment details are required to get started.
+
+### Paid plans
+
+| Plan | Price (US, monthly) | Who it's for | Highlights |
+|------|---------------------|--------------|------------|
+| Google AI Plus | $4.99 | Casual paid users | Gemini 3.1 Pro (limited access), video generation, NotebookLM + Audio Overviews, Gemini in Gmail & Docs, 400 GB storage, ~2× free usage |
+| Google AI Pro | $19.99 | Individual power users | Full Gemini 3.1 Pro, Deep Research, Gems, Canvas, Jules, Gemini CLI, 1M-token context, 5 TB storage |
+| Google AI Ultra ($100) | $99.99 | Heavy users | Everything in Pro + Deep Think, Gemini Spark, YouTube Premium Lite, ~5× AI Pro usage, 20 TB storage |
+| Google AI Ultra ($200) | $199.99 | Highest compute needs | Everything in $100 Ultra + Project Genie, Mariner, up to 20× AI Pro usage, 20 TB storage (30 TB option) |
+
+### Key differences: Free vs Pro
+
+| Feature | Free | Google AI Pro ($19.99/mo) |
+|---------|------|--------------------------|
+| Primary model | Gemini base | Gemini 3.1 Pro (full access) |
+| Context window | Standard | 1 million tokens |
+| Deep Research | Limited | Full access |
+| Gems (custom AI experts) | ❌ | ✅ |
+| Gemini CLI | ❌ | ✅ |
+| Jules (AI coding agent) | ❌ | ✅ |
+| Video generation | ❌ | ✅ |
+| Gemini in Gmail & Docs | ❌ | ✅ |
+| Google storage | 15 GB | 5 TB |
+| Usage limits | Free tier limits | Higher limits |
+
+### When to upgrade to the paid plan
+
+Consider upgrading from Free to Google AI Pro if you:
+- Need the most capable Gemini model (Gemini 3.1 Pro) for complex tasks
+- Require a large context window (1M tokens) for long documents or codebases
+- Use Gemini within Gmail, Google Docs, or other Workspace apps
+- Want access to agentic tools like Jules (coding) or Gemini CLI
+- Need substantially more Google storage
+
+The free plan is sufficient for everyday chat, basic research, and casual use.
+
+### Notes
+
+- The **Gemini API** is billed separately on a pay-per-token basis and is not included in any consumer subscription plan.
+- Plans are available month-to-month or annually; cancellation takes effect at the end of the billing period.
+- Prices may vary by region; mobile app store prices may differ.
+- Subscriptions renew automatically.
+
+### Sources
+
+- [Gemini Pricing & Plans (2026)](https://pricepertoken.com/subscriptions/gemini)
+- [Gemini Pricing in 2026: Plans, API Costs, and Is It Free?](https://geotoolbox.ai/blog/gemini-pricing)
