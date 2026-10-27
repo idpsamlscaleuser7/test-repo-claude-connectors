@@ -188,3 +188,7 @@ The free plan is sufficient for everyday chat, basic research, and casual use.
 
 - [Gemini Pricing & Plans (2026)](https://pricepertoken.com/subscriptions/gemini)
 - [Gemini Pricing in 2026: Plans, API Costs, and Is It Free?](https://geotoolbox.ai/blog/gemini-pricing)
+
+## Hello World
+
+Hello, world!
