@@ -212,3 +212,22 @@ Use the [Notion trip plan](https://app.notion.com/p/407f5abc23ec81cf897dcc17da50
 - [ ] Arrange local transport and allow for weather and road delays
 - [ ] Review documents and packing list
 
+
+
+---
+
+## Vietnam trip tracker
+
+**Status:** Planning  
+**Dates:** TBD · **Travelers:** TBD · **Budget:** TBD
+
+Use the [Notion Vietnam trip plan](https://app.notion.com/p/407f5abc23ec8123b32cc3c035d6c064?pvs=204) for the sample itinerary and booking checklist. Track follow-up in [Jira task SCRUM-14](https://idpsamlscaleuser7.atlassian.net/browse/SCRUM-14).
+
+### Planning checklist
+
+- [ ] Confirm dates, travelers, departure city, and budget
+- [ ] Check entry requirements for each traveler
+- [ ] Book international and Hanoi–Da Nang flights
+- [ ] Reserve accommodation in Hanoi and Hoi An
+- [ ] Choose a Ha Long Bay cruise and confirm transfers
+- [ ] Save booking details and travel insurance information
