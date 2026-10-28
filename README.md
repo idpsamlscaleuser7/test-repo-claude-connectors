@@ -160,7 +160,7 @@ No payment details are required to get started.
 | Deep Research | Limited | Full access |
 | Gems (custom AI experts) | ❌ | ✅ |
 | Gemini CLI | ❌ | ✅ |
-| Jules (AI coding agent) | ❌ | ✅ |
+| Jules (coding) | ❌ | ✅ |
 | Video generation | ❌ | ✅ |
 | Gemini in Gmail & Docs | ❌ | ✅ |
 | Google storage | 15 GB | 5 TB |
@@ -192,3 +192,23 @@ The free plan is sufficient for everyday chat, basic research, and casual use.
 ## Hello World
 
 Hello, world!
+
+---
+
+## Darjeeling trip tracker
+
+**Status:** Planning  
+**Dates:** TBD · **Travelers:** TBD · **Budget:** TBD
+
+Use the [Notion trip plan](https://app.notion.com/p/407f5abc23ec81cf897dcc17da50259f?pvs=204) as the detailed itinerary and booking checklist. Track overall follow-up in [Jira task SCRUM-13](https://idpsamlscaleuser7.atlassian.net/browse/SCRUM-13).
+
+### Planning checklist
+
+- [ ] Confirm travel dates, travelers, departure city, and budget
+- [ ] Book travel to Bagdogra or NJP and the onward transfer to Darjeeling
+- [ ] Choose accommodation and reserve
+- [ ] Check current railway ride schedules and book if wanted
+- [ ] Confirm tea estate and attraction opening details
+- [ ] Arrange local transport and allow for weather and road delays
+- [ ] Review documents and packing list
+
